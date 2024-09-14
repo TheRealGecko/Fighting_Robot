@@ -3,7 +3,5 @@ Bethany L., Danya C. and I made a fighting robot (the Batmobile) for a school pr
 
 ![The Batmobile](https://raw.githubusercontent.com/TheRealGecko/Fighting_Robot/main/the_batmobile.jpeg)
 
-![Demo fight](https://youtu.be/mQ44ZURt4cg)
-
 https://github.com/user-attachments/assets/d2a125bd-1eb0-4f94-a67d-727491e27d39
 
