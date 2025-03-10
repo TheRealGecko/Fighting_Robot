@@ -1,5 +1,5 @@
 # Fighting_Robot
-Bethany L., Danya C. and I made a fighting robot (the Batmobile) for a school project
+Bethany L., Danya C. and I made a fighting robot (the Batmobile)
 
 ![The Batmobile](https://raw.githubusercontent.com/TheRealGecko/Fighting_Robot/main/the_batmobile.jpeg)
 
